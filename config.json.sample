@@ -1,0 +1,7 @@
+{
+    "cosmosdb_url":"<Azure CosmosDB Endpoint",
+    "cosmosdb_key":"<access key>",
+    "cosmosdb_db":"<database id>",
+    "cosmosdb_collection":"<collection name",
+    "connectionType":"<type connection (LAN/WIFI/...)>"
+}
